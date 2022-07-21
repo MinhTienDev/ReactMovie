@@ -1,0 +1,36 @@
+#corousel_homepage .ant-carousel .slick-dots li button {
+  background-color: gray;
+  opacity: 1;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+}
+
+#corousel_homepage .ant-carousel .slick-dots li.slick-active button {
+  background: red;
+  opacity: 1;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+}
+
+#carousel__banner .ant-carousel .slick-dots li button {
+  position: relative;
+  top: -34px;
+  background-color: gray;
+  opacity: 1;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  margin-bottom: 50px;
+}
+
+#carousel__banner .ant-carousel .slick-dots li.slick-active button {
+  position: relative;
+  top: -34px;
+  background: red;
+  opacity: 1;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+}
